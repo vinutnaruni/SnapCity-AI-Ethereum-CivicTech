@@ -4,6 +4,7 @@
 
 Welcome to our submission for the **Agentic Ethereum Hackathon** organized by **Reskilll & Geodework**! This repository includes our complete project codebase, smart contracts, documentation, and demo resources.
 
+## Project PPT: https://docs.google.com/presentation/d/101Bzell-A3cK90C2rJSn-Lv0iEONshV-/edit?usp=share_link&ouid=115587746817898575546&rtpof=true&sd=true
 ---
 
 ## 📌 Problem Statement
