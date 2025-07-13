@@ -1,3 +1,5 @@
+# Agentic Ethereum Hackathon India
+
 # 🛠 Project Title - SnapCity (Team CityFix)
 
 Welcome to our submission for the **Agentic Ethereum Hackathon** organized by **Reskilll & Geodework**! This repository includes our complete project codebase, smart contracts, documentation, and demo resources.
