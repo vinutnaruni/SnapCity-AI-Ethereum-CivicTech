@@ -1,20 +1,14 @@
-# Python
+# Ignore virtual environments and large files
 venv/
+*.pt
+*.weights
+*.dylib
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Node
-node_modules/
-build/
-dist/
-
-# VSCode
-.vscode/
-
-# System
 .DS_Store
 
-# Logs
-*.log
+# Node and build
+node_modules/
+dist/
+build/
+.env
