@@ -1,14 +1,11 @@
-# Ignore virtual environments and large files
+# Python
 venv/
-*.pt
-*.weights
-*.dylib
 __pycache__/
 *.pyc
+
+# macOS
 .DS_Store
 
-# Node and build
+# Node
 node_modules/
 dist/
-build/
-.env
